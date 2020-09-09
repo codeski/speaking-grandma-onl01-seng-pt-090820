@@ -8,6 +8,7 @@ def speak_to_grandma(phrase)
   elsif "#{phrase}"
   print "HUH?! SPEAK UP, SONNY!"
 end
+end
 
 speak_to_grandma
 
